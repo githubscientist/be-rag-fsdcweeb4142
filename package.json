@@ -1,0 +1,27 @@
+{
+  "name": "be-rag-fsdcweeb4142",
+  "version": "1.0.0",
+  "description": "This repository contains a Retrieval-Augmented Generation (RAG) system that integrates with vector database (created at mongodb atlas) to enhance the capabilities of language models by providing them with relevant information from a large collection of documents. The RAG system allows for more accurate and context-aware responses by retrieveing relevant documents from the vector database and using them to generate respones.",
+  "keywords": [
+    "rag",
+    "expressjs",
+    "nodejs",
+    "mongodb",
+    "vector-embeddings"
+  ],
+  "homepage": "https://github.com/githubscientist/be-rag-fsdcweeb4142#readme",
+  "bugs": {
+    "url": "https://github.com/githubscientist/be-rag-fsdcweeb4142/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githubscientist/be-rag-fsdcweeb4142.git"
+  },
+  "license": "ISC",
+  "author": "Sathish Gnanaprakasam",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
